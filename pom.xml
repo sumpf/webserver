@@ -8,12 +8,12 @@
     <artifactId>webapp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
+        <finalName>SW</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <warName>bird.war</warName>
                     <source>11</source>
                     <target>11</target>
                 </configuration>
