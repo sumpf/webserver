@@ -13,6 +13,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
+                    <warName>bird.war</warName>
                     <source>11</source>
                     <target>11</target>
                 </configuration>
