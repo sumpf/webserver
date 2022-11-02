@@ -2,12 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello 상봉 v1</title>
+    <title>JSP - Hello 상봉 </title>
 </head>
 <body>
 <h1><%= "Hello 상봉 v1!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello 상봉 v1</a>
 </body>
 </html>
