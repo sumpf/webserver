@@ -5,7 +5,7 @@
     <title>JSP - Hello 상봉 </title>
 </head>
 <body>
-<h1><%= "Hello 상봉 v1!" %>
+<h1><%= "Hello 상봉 v2!" %>
 </h1>
 <br/>
 </body>
